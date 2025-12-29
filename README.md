@@ -136,8 +136,8 @@ Used as a coordination layer:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/task-queue.git
-cd task-queue
+git clone https://github.com/JagTheFriend/Distributed-Task-Management.git
+cd Distributed-Task-Management
 ```
 
 ---
